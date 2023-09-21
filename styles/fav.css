@@ -1,0 +1,59 @@
+#counterText {
+    color: black;
+    font-family: consolas,arial,sans-serif;
+    font-size: 3em;
+    text-align: center;
+    }
+
+    #favoriteColorContainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        margin: 20px;
+
+    }
+    
+    #favoriteColorBox {
+        background-color: black;
+        line-height: 100px;
+        text-align: center;
+        color: white;
+        padding-left: 20px;  /* add space to the left side */
+        padding-right: 20px; /* add space to the right side */
+    }
+    
+    .color-btn {
+        margin: 1px;
+        padding: 10px;
+    }
+    
+    #blue{
+        background-color: blue;
+    }
+
+    #green{
+        background-color: green;
+    }
+
+    #red{
+        background-color: red;
+    }
+
+    #purple{
+        background-color: purple;
+    }
+
+    .custom-navbar {
+        background-color: #800000; 
+    }
+
+    .custom-text{
+            color: white !important; 
+    }
+
+    .ctr-btn{
+        background-color: #800000; /* Light blue color */
+    }
+    
+    
